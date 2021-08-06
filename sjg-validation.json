@@ -1,0 +1,8 @@
+{
+"name":"MOMO#2026",
+"ticker":"MOMO",
+"discordId":"843511199123505182",
+"pool-list":"true",
+"poolMetaData":"https://raw.githubusercontent.com/momo-ada-pool/pulic-information/master/poolMetaData.json",
+"validation":"https://raw.githubusercontent.com/momo-ada-pool/pulic-information/master/sjg-validation.json"
+}
